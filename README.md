@@ -13,21 +13,21 @@ Shehan Chanuka</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently an undergraduate @ <a href="https://www.sliit.lk/" target="blank">SLIIT</a>
+- 🔭 I’m currently an undergraduate @ <a href="https://www.sliit.lk/" target="_blank">SLIIT</a>
 
 - 🌱 I’m currently Working on Full-stack development (Node.js, React.js, Next, CI/CD and more)
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning <a href="https://www.docker.com/" target="blank">Docker</a>
+- 🌱 I’m currently learning <a href="https://www.docker.com/" target="_blank">Docker</a>
 
-- 📝 I regularly write articles on <a href="https://medium.com/@shehanxdev" target="blank"> Medium<a/>
+- 📝 I regularly write articles on <a href="https://medium.com/@shehanxdev" target="_blank"> Medium<a/>
 
 - 💬 Ask me about **Reactjs & Nodejs**
 
 - 📫 How to reach me **shehanxdev@gmail.com**
 
-- 📄 Know about my experiences <a href="https://github.com/shehanxdev/shehanxdev/blob/main/Shehan%20Chanuka%20Resume.pdf" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://github.com/shehanxdev/shehanxdev/blob/main/Shehan%20Chanuka%20Resume.pdf" target="_blank">Resume</a>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
