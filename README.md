@@ -47,12 +47,13 @@ Shehan Chanuka</a></h1>
 </div>
 
 </p>
-
-### Blogs posts
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/shehanxdev/count.svg" />
 </p>
+
+### Blogs posts
+
 
 
 <!-- BLOG-POST-LIST:START -->
