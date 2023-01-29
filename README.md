@@ -49,6 +49,11 @@ Shehan Chanuka</a></h1>
 </p>
 
 ### Blogs posts
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/shehanxdev/count.svg" />
+</p>
+
 
 <!-- BLOG-POST-LIST:START -->
 
