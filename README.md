@@ -23,7 +23,7 @@ Shehan Chanuka</a></h1>
 
 - 📝 I regularly write articles on <a href="https://medium.com/@shehanxdev" target="_blank"> Medium<a/>
 
-- 💬 Ask me about **Reactjs & Nodejs**
+- 💬 Ask me about **Fullstack dev in JS**
 
 - 📫 How to reach me **shehanxdev@gmail.com**
 
