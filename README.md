@@ -15,7 +15,7 @@ Shehan Chanuka</a></h1>
 
 - 🔭 I’m currently an undergraduate @ <a href="https://www.sliit.lk/" target="_blank">SLIIT</a>
 
-- 🌱 I’m currently Working on Full-stack development (Node.js, React.js, Next, CI/CD and more)
+- 🌱 I’m currently Working on Full-stack development (Node.js, React.js, Next, CI/CD and more) 
 
 - 🤝 I’m available for freelancing.
 
