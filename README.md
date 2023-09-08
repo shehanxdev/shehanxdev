@@ -15,15 +15,13 @@ Shehan Chanuka</a></h1>
 
 - 🔭 I’m currently an undergraduate @ <a href="https://www.sliit.lk/" target="_blank">SLIIT</a>
 
-- 🌱 I’m currently Working on Full-stack development (Node.js, React.js, Next, CI/CD and more) 
+- 🌱 I’m currently Working on Full-stack development (Node.js, React.js, Next, CI/CD, and more) 
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning <a href="https://reactnative.dev/" target="_blank">React Native</a>
-
 - 📝 I regularly write articles on <a href="https://medium.com/@shehanxdev" target="_blank"> Medium<a/>
 
-- 💬 Ask me about **Fullstack dev in JS**
+- 💬 Ask me about **Fullstack development**
 
 - 📫 How to reach me **shehanxdev@gmail.com**
 
