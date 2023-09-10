@@ -27,7 +27,7 @@ Shehan Chanuka</a></h1>
 
 - 🌎 Checkout my portfolio <a href="https://shehanxdev.github.io/">Shehanxdev.github.io</a>
 
-- 📄 Know about my experiences <a href="https://github.com/shehanxdev/shehanxdev/blob/main/Shehan%20Chanuka%20Resume.pdf" target="_blank">Resume</a>
+- 📄 Know about my experiences <a href="https://github.com/shehanxdev/shehanxdev/blob/main/Resume_2023_Sep.pdf" target="_blank">Resume</a>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
