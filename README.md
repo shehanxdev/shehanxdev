@@ -1,6 +1,4 @@
-
-
-
+<img src="https://github.com/shehanxdev/shehanxdev/blob/main/Cover%20image.png"/>
 <h1 align="center">Hi </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Shehan Chanuka</a></h1>
 <p align="center">
