@@ -13,13 +13,13 @@
 
 - 🔭 I’m currently an undergraduate @ <a href="https://www.sliit.lk/" target="_blank">SLIIT</a>
 
-- 🌱 I’m currently Working on Full-stack development (Node.js, React.js, Next, CI/CD, and more) 
+- 🌱 I’m currently Working on Backend development and Deep learning 
 
 - 🤝 I’m available for freelancing.
 
 - 📝 I regularly write articles on <a href="https://medium.com/@shehanxdev" target="_blank"> Medium<a/>
 
-- 💬 Ask me about **Fullstack development**
+- 💬 Ask me about **Fullstack development and Artificial Intelligence**
 
 - 📫 How to reach me **shehanxdev@gmail.com**
 
